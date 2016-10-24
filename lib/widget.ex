@@ -1,0 +1,2 @@
+defmodule Widget do
+end
